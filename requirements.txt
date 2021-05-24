@@ -221,7 +221,6 @@ python-dateutil=2.8.1=py_0
 python-jsonrpc-server=0.4.0=py_0
 python-language-server=0.35.1=py_0
 python-libarchive-c=2.9=py_0
-pytorch=1.7.1=py3.8_cuda110_cudnn8_0
 pytz=2020.1=py_0
 pywavelets=1.1.1=py38he774522_2
 pywin32=227=py38he774522_1
@@ -276,8 +275,6 @@ tifffile=2020.10.1=py38h8c2d366_2
 tk=8.6.10=he774522_0
 toml=0.10.1=py_0
 toolz=0.11.1=py_0
-torchaudio=0.7.2=py38
-torchvision=0.8.2=py38_cu110
 tornado=6.0.4=py38he774522_1
 tqdm=4.50.2=py_0
 traitlets=5.0.5=py_0
