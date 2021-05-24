@@ -1,5 +1,5 @@
 In order to install the necessary packages Pytorch to run the project code, please run either of the following
-commands in the relevant conda or pip shell in this directory:
+commands in the relevant conda or pip prompt in this directory:
 
 conda install --yes --file requirements.txt
 
